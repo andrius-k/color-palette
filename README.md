@@ -4,10 +4,13 @@ This libraty allows you to extract an array of colors from single image.
 
 # Available colors
 
-Muted Color, Vibrant Color, Light Muted Color, Light Vibrant Color, Dark Muted Color, Dark Vibrant Color
-
 <ul>
-    <li>hi</li>
+    <li>Muted Color</li>
+    <li>Vibrant Color</li>
+    <li>Light Muted Color</li>
+    <li>Light Vibrant Color</li>
+    <li>Dark Muted Color</li>
+    <li>Dark Vibrant Color</li>
 </ul>
 
 # Usage
