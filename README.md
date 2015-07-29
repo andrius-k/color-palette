@@ -6,6 +6,10 @@ This libraty allows you to extract an array of colors from single image.
 
 Muted Color, Vibrant Color, Light Muted Color, Light Vibrant Color, Dark Muted Color, Dark Vibrant Color
 
+<ul>
+    <li>hi</li>
+</ul>
+
 # Usage
 
     var palette = new ColorPaletteGenerator();
