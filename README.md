@@ -1,5 +1,5 @@
 # color-palette
-Android's Palette API implementation for Xamarin.iOS
+Android's Palette API implementation for Xamarin.iOS.
 This libraty allows you to extract an array of colors from single image.
 
 # Available colors
