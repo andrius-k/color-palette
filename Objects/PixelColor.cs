@@ -1,5 +1,4 @@
 ﻿using System;
-using UIKit;
 
 namespace ColorPalette
 {
@@ -7,7 +6,7 @@ namespace ColorPalette
 	public class PixelColor
 	{
 		// Color of one pixel
-		public YUVColor Color { get; set; } = UIColor.Red.ToYUV();
+		public YUVColor Color { get; set; }
 
 		// Number of its occurrences in the image
 		public int NumberOfOccurrences { get; set; }

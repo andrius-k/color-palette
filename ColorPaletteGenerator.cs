@@ -1,11 +1,8 @@
 ﻿using System;
 using UIKit;
-using System.CodeDom.Compiler;
 using CoreGraphics;
-using System.Runtime.InteropServices;
 using System.Collections.Generic;
-using Foundation;
-using ColorPalette;
+using System.Runtime.InteropServices;
 
 namespace ColorPalette
 {
