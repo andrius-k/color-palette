@@ -13,6 +13,12 @@ This libraty allows you to extract an array of colors from single image.
     <li>Dark Vibrant Color</li>
 </ul>
 
+# Samples
+
+Background color is MutedColor, Title is VibrantColor and smaller text is LightVibrantColor.
+
+
+
 # Usage
 ```c#
 var palette = new ColorPaletteGenerator();
