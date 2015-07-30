@@ -18,7 +18,10 @@ This libraty allows you to extract an array of colors from single image.
 Background color is MutedColor, Title is VibrantColor and smaller text is LightVibrantColor.
 
 ![Alt text](https://cloud.githubusercontent.com/assets/1687466/8980111/f64028f4-36b6-11e5-93db-b661f13788f3.png)
-![Alt text](https://cloud.githubusercontent.com/assets/1687466/8980111/f64028f4-36b6-11e5-93db-b661f13788f3.png)
+![Alt text](https://cloud.githubusercontent.com/assets/1687466/8980112/f6407e80-36b6-11e5-8767-011e6097d50f.png)
+![Alt text](https://cloud.githubusercontent.com/assets/1687466/8980114/f6425228-36b6-11e5-9931-672a797aa678.png)
+![Alt text](https://cloud.githubusercontent.com/assets/1687466/8980113/f6424dd2-36b6-11e5-8d6e-a827cde3fac9.png)
+![Alt text](https://cloud.githubusercontent.com/assets/1687466/8980110/f61971aa-36b6-11e5-9589-4a5e97b9435b.png)
 
 # Usage
 ```c#
