@@ -15,10 +15,10 @@ This libraty allows you to extract an array of colors from single image.
 
 # Usage
 ```c#
-    var palette = new ColorPaletteGenerator();
-    var image = UIImage.FromBundle ("Images/sampleImage.jpeg");
-    palette.Generate (image);
+var palette = new ColorPaletteGenerator();
+var image = UIImage.FromBundle ("Images/sampleImage.jpeg");
+palette.Generate (image);
 
-    // Use generated colors
-    Something.Color = palette.MutedColor;
+// Use generated colors
+Something.Color = palette.MutedColor;
 ```
